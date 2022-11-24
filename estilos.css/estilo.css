@@ -86,10 +86,10 @@ header a:hover{
     height: 90vh;
     background-image: linear-gradient(
         0deg,
-        rgba(0,0,0,0.5),
-        rgba(0,0,0,0.5)
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)
     )
-    ,url("media/hero.jpg");
+    ,url("../multimedia/imagen_uno.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -141,7 +141,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/front-end.jpg");
+    ,url("../multimedia/fontend.jpg");
 
 }
 
@@ -151,7 +151,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack.jpg");
+    ,url("../multimedia/fullstack.jpg");
 }
 
 .carta:nth-child(3){
@@ -160,7 +160,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/python.jpg");
+    ,url("../multimedia/phyton.jpg");
 
 }
 
@@ -251,7 +251,7 @@ footer .container{
     }
 
     #somos-proya .img-container{
-        background-image: url("media/somos-proya.jpg");
+        background-image: url("../multimedia/programador.jpeg");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -291,7 +291,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/front-end-cropped.jpg");
+        ,url("../multimedia/fontend.jpg");
 
     }
 
@@ -301,7 +301,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/full-stack-cropped.jpg");
+        ,url("../multimedia/fullstack.jpg");
     }
 
     .carta:nth-child(3){
@@ -310,12 +310,12 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/python-cropped.jpg");
+        ,url("../multimedia/phyton.jpg");
 
     }
 
     #caracteristicas{
-        background-image: url("media/background-2.jpeg");
+        background-image: url("../multimedia/programadordibujo.jpg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
